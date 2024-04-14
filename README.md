@@ -24,3 +24,5 @@ This project is a web application that allows users to play the game of rock-pap
 ## Acknowledgments
 
 - This project utilizes JavaScript, HTML, and CSS.
+
+  Check out my Rock-Paper-Scissors game : https://kalyani11git.github.io/Rock-Paper-Scissors/
